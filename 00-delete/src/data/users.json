@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1, 
+    "name": "John Doe",
+    "description": "A software developer from New York.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "description": "A graphic designer from California.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "description": "A project manager from Texas.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "description": "A data analyst from Florida.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "description": "A network engineer from Washington.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 6,
+    "name": "Diana Evans",
+    "description": "A UX designer from Oregon.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "name": "Ethan Foster",
+    "description": "A cybersecurity expert from Nevada.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 8,
+    "name": "Fiona Green",
+    "description": "A database administrator from Arizona.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 9,
+    "name": "George Harris",
+    "description": "A cloud architect from Colorado.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": 10,
+    "name": "Hannah Irving",
+    "description": "A DevOps engineer from Utah.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=10"
+  },
+  {
+    "id": 11,
+    "name": "Ian Jackson",
+    "description": "A mobile app developer from Idaho.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "id": 12,
+    "name": "Julia King",
+    "description": "A systems analyst from Montana.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "id": 13,
+    "name": "Kevin Lewis",
+    "description": "A software tester from Wyoming.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=13"
+  },
+  {
+    "id": 14,
+    "name": "Laura Martinez",
+    "description": "A web developer from New Mexico.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=14"
+  },
+  {
+    "id": 15,
+    "name": "Michael Nelson",
+    "description": "A game developer from Alaska.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "id": 16,
+    "name": "Natalie Owens",
+    "description": "A blockchain developer from Hawaii.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=16"
+  },
+  {
+    "id": 17,
+    "name": "Oscar Perez",
+    "description": "A machine learning engineer from Kansas.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=17"
+  },
+  {
+    "id": 18,
+    "name": "Paula Quinn",
+    "description": "A robotics engineer from Nebraska.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=18"
+  },
+  {
+    "id": 19,
+    "name": "Quincy Roberts",
+    "description": "A VR developer from Oklahoma.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=19"
+  },
+  {
+    "id": 20,
+    "name": "Rachel Scott",
+    "description": "A big data engineer from South Dakota.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=20"
+  },
+  {
+    "id": 21,
+    "name": "Steven Turner",
+    "description": "A full-stack developer from North Dakota.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=21"
+  },
+  {
+    "id": 22,
+    "name": "Tina Underwood",
+    "description": "A software architect from Minnesota.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=22"
+  },
+  {
+    "id": 23,
+    "name": "Ulysses Vance",
+    "description": "A hardware engineer from Iowa.",
+    "isAdmin": false,
+    "imageUrl": "https://i.pravatar.cc/150?img=23"
+  },
+  {
+    "id": 24,
+    "name": "Victoria White",
+    "description": "A network administrator from Missouri.",
+    "isAdmin": true,
+    "imageUrl": "https://i.pravatar.cc/150?img=24"
+  }
+]

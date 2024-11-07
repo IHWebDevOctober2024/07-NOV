@@ -1,0 +1,38 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  font-size: 2rem;
+  padding: 1rem;
+  background-color: rgb(215, 172, 255);
+  border-radius: 10px;
+  width: 20rem;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  input {
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+
+  button {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    background-color: rgb(231, 209, 252);
+    border: none;
+    border-radius: 10px;
+  }
+}
+
+::placeholder {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: red;
+  font-size: 2rem;
+  opacity: 1; /* Firefox */
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
